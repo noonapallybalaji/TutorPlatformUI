@@ -31,6 +31,7 @@ export default function EvolvingAvatar({ level, streak, xp }) {
   
   // Get accessories based on streak
   const getAccessories = () => {
+    console.log(isAnimating)
     const accessories = [];
     const streakLevels = Object.keys(streakAccessories).sort((a,b) => b - a);
     
