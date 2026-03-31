@@ -23,7 +23,7 @@ import TutorProfile from "./pages/register/tutor/TutorProfile";
 import TutorLocationSchedule from "./pages/register/tutor/TutorLocationSchedule";
 
 // Layouts
-import PublicLayout from "./layouts/Publiclayout";
+import PublicLayout from "./layouts/PublicLayout";
 import ParentLayout from "./layouts/ParentLayout";
 import StudentLayout from "./layouts/StudentLayout";
 import TutorLayout from "./layouts/TutorLayout";
